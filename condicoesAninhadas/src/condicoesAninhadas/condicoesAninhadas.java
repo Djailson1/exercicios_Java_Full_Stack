@@ -11,9 +11,9 @@ public class condicoesAninhadas {
 		
 		/*operações logicas condicionais aninhadas*/
 		
-		if(media >= 50){
+		      if(media >= 50){
 			  if(media >= 70){
-			   if(media > 90){
+			  if(media > 90){
 			     System.out.println(" Sua média foi: " + media + ". Você foi aprovadissimo");
 			   }else{
 			    System.out.println(" Sua média foi: " + media + ". Você foi aprovado");
