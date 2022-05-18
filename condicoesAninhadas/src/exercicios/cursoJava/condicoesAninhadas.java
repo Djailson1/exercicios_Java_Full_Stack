@@ -1,4 +1,4 @@
-package condicoesAninhadas;
+package exercicios.cursoJava;
 
 public class condicoesAninhadas {
 	public static void main(String[] args) {
